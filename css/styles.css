@@ -1,0 +1,34 @@
+
+.sub-container {
+  margin: 20px;
+  background: white;
+}
+
+.box11 {
+  height: 50px;
+  background-color: black;
+}
+
+.box12 {
+  height: 25px;
+  background-color: black;
+  margin-top: 20px;
+}
+
+.box2 {
+  height: 200px;
+  background-color: black;
+  margin-top: 20px;
+}
+
+.box3 {
+  height: 25px;
+  background-color: black;
+  margin-top: 30px;
+}
+
+.box4 {
+  height: 150px;
+  background-color: black;
+  margin-top: 20px;
+}
